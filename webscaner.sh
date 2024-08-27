@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#github:https://github.com/rnglx
-
 # Função para desenhar uma linha separadora
 draw_line() {
   echo "===================================================================="
