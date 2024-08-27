@@ -23,7 +23,7 @@ chmod +x webscaner
 
 ### Exemplo de uso:
 
-./parsing.sh www.exemplo.com
+./webscaner.sh www.exemplo.com
 
 #### Funcionamento
 A ferramenta realiza o download do HTML da página especificada.
