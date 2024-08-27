@@ -14,7 +14,8 @@
 
 git clone https://github.com/rnglx/HTML-Parsing.git
 
-cd webscaner
+cd HTML-Parsing
+
 chmod +x webscaner
 
 #### Executar a ferramenta:
